@@ -22,11 +22,21 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <div>  
+      Hobby:<br>  
+                    <input type="checkbox" id="cricket" name="cricket" value="cricket"/>  
+                       <label for="cricket">Cricket</label> <br>  
+                    <input type="checkbox" id="football" name="football" value="football"/>  
+                       <label for="football">Football</label> <br>  
+                    <input type="checkbox" id="hockey" name="hockey" value="hockey"/>  
+                       <label for="hockey">Hockey</label>  
+    </div> 
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
+  
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
