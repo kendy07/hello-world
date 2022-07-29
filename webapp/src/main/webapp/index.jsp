@@ -29,7 +29,7 @@
                     <input type="checkbox" id="football" name="football" value="football"/>  
                        <label for="football">Football</label> <br>  
                     <input type="checkbox" id="hockey" name="hockey" value="hockey"/>  
-                       <label for="hockey">Hockey</label>  
+                       <label for="hockey">Hockey22</label>  
     </div> 
     <hr>
     <br>
@@ -41,7 +41,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank (*-*), Happy Learning </h1>
+   <h1> Thank (*-*), Happy Learning Kendy</h1>
 
   
 </form>
